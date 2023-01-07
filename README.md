@@ -18,6 +18,8 @@ opensource-platformは、長岡技術科学大学木村研究室が開発・提�
 
 ![image](https://user-images.githubusercontent.com/93763065/211144399-1716ca6f-ff36-4432-afb9-0dab2f8d3528.png)
 
+加工での注意点などはwikiに記載
+
 # 使用ソフト環境
 SOLIDWORKS 2018<br>
 Vectric Cut2D<br>
