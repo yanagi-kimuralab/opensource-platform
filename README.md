@@ -33,7 +33,7 @@ CC BY-SA 4.0
 
 # 3Dモデルビューア
 Autodesk Viewerを使用して、ブラウザ上で3Dモデルを閲覧・操作することができます。
-アクセスは[こちら](#https://autode.sk/3IsuZBB)から。
+アクセスは[こちら](https://autode.sk/3IsuZBB)から。
 
 https://autode.sk/3IsuZBB
 
