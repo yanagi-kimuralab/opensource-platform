@@ -1,5 +1,7 @@
 # opensource-platform
-<p align="center">
-  <img src="[https://user-images.githubusercontent.com/(略)/test.jpg](https://user-images.githubusercontent.com/93763065/211138779-29c888fb-2631-4a0b-a01e-5fb40bf5b1bc.png)" />
-</p>
+![image](https://user-images.githubusercontent.com/93763065/211138959-c709bd07-9d78-4def-be3c-f00fe92557c6.png)
+
+# What is opensource-platform？
+opensource-platform is a platform for rescue response robots developed and provided by the Kimura Laboratory at Nagaoka University of Technology.
+
 https://autode.sk/3IsuZBB
