@@ -5,6 +5,10 @@
 opensource-platformは、長岡技術科学大学木村研究室が開発・提供しているレスキュー対応ロボットのためのプラットフォームです。<br>
 本プラットフォームはすべてのハードウェアがオープンソースハードウェアとして公開されています。
 
+# 3Dモデルビューア
+Autodesk Viewerを使用して、ブラウザ上で3Dモデルを閲覧・操作することができます。<br>
+アクセスは[こちら](https://autode.sk/3IsuZBB)から。
+
 # 基本コンセプト
 開発したプラットフォームは以下のコンセプトで開発されています。
 
@@ -33,7 +37,5 @@ Estlcam<br>
 # ライセンス
 opensource-platform is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.
 
-# 3Dモデルビューア
-Autodesk Viewerを使用して、ブラウザ上で3Dモデルを閲覧・操作することができます。<br>
-アクセスは[こちら](https://autode.sk/3IsuZBB)から。
+
 
