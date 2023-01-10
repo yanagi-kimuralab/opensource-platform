@@ -37,5 +37,5 @@ Estlcam<br>
 # ライセンス
 opensource-platform is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.
 
-
+CADのライセンス問題があるため、商用の場合は各自、SOLIDWORKSにお問い合わせお願いします。
 
