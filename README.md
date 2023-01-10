@@ -20,7 +20,7 @@ Autodesk Viewerを使用して、ブラウザ上で3Dモデルを閲覧・操作
 # 基本仕様
 オープンソースロボットプラットフォームの基本性能及びCADの書き方について以下に示します。
 
-![image](https://user-images.githubusercontent.com/93763065/211144399-1716ca6f-ff36-4432-afb9-0dab2f8d3528.png)
+![image](https://user-images.githubusercontent.com/93763065/211472810-64ac6e65-c254-469e-8e78-00a7131e337c.png)
 
 加工での注意点などはwikiに記載
 
