@@ -22,7 +22,7 @@ Autodesk Viewerを使用して、ブラウザ上で3Dモデルを閲覧・操作
 
 ![image](https://user-images.githubusercontent.com/93763065/211472810-64ac6e65-c254-469e-8e78-00a7131e337c.png)
 
-加工での注意点などはwikiに記載
+加工での注意点などは[wiki](https://github.com/yanagi-kimuralab/opensource-platform/wiki)に記載
 
 # 使用ソフト環境
 SOLIDWORKS 2018<br>
