@@ -35,7 +35,8 @@ Estlcam<br>
 メール：stn.kimuralab@gmail.com
 
 # ライセンス
-opensource-platform is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.
+opensource-platform is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.<br>
+![image](https://user-images.githubusercontent.com/93763065/211735493-b3f3abb9-634d-482d-8674-242c44078d72.png)<br>
 
 CADのライセンス問題があるため、SOLIDWORKSデータの提供については別途お問い合わせ願います。<br>
 
